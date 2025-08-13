@@ -29,7 +29,7 @@ export function ReviewsSection() {
                 ))}
               </div>
               <p className="text-gray-600 mb-4">
-                "AI 상담 기능이 정말 놀라워요. 마치 진짜 상담사와 대화하는 것 같습니다."
+                &ldquo;AI 상담 기능이 정말 놀라워요. 마치 진짜 상담사와 대화하는 것 같습니다.&rdquo;
               </p>
               <div className="font-medium text-gray-900">김○○</div>
               <div className="text-sm text-gray-500">직장인, 27세</div>
@@ -44,7 +44,7 @@ export function ReviewsSection() {
                 ))}
               </div>
               <p className="text-gray-600 mb-4">
-                "감정 패턴을 시각적으로 볼 수 있어서 나 자신을 더 잘 이해하게 되었어요."
+                &ldquo;감정 패턴을 시각적으로 볼 수 있어서 나 자신을 더 잘 이해하게 되었어요.&rdquo;
               </p>
               <div className="font-medium text-gray-900">이○○</div>
               <div className="text-sm text-gray-500">대학생, 22세</div>
@@ -59,7 +59,7 @@ export function ReviewsSection() {
                 ))}
               </div>
               <p className="text-gray-600 mb-4">
-                "매일 사용하기 쉽고 UI가 예뻐서 지속적으로 기록할 수 있어요."
+                &ldquo;매일 사용하기 쉽고 UI가 예뻐서 지속적으로 기록할 수 있어요.&rdquo;
               </p>
               <div className="font-medium text-gray-900">박○○</div>
               <div className="text-sm text-gray-500">프리랜서, 31세</div>

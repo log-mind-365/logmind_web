@@ -27,6 +27,9 @@ export default function RootLayout({
 		<html lang="ko">
 			<body
 				className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+				style={{
+					fontFamily: 'var(--font-geist-sans), system-ui, sans-serif'
+				}}
 			>
 				{children}
 			</body>
